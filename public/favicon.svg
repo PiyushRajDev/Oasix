@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="circle-cut">
+      <circle cx="50" cy="50" r="45" />
+    </clipPath>
+  </defs>
+  <!-- Top crescent -->
+  <path d="M 12,50 A 42,42 0 1,1 88,50 A 42,32 0 0,0 12,50 Z" fill="#1D1D1F" />
+  <!-- Bottom wave -->
+  <path d="M 12,58 Q 50,42 88,68 A 42,42 0 0,1 12,58 Z" fill="#1D1D1F" />
+</svg>

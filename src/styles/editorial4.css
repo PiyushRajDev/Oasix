@@ -1,0 +1,34 @@
+/* part4-memo */
+.decision-v2 .decision-sub{color:var(--ed-muted)!important;}
+.scenario-btn{background:#fff!important;border:1px solid var(--ed-line2)!important;
+  color:var(--ed-muted)!important;border-radius:999px!important;}
+.scenario-btn.on{background:var(--ed-ink)!important;color:#fff!important;border-color:var(--ed-ink)!important;}
+.opp-shell.opp-shell-v2.opp-memo{background:#fff!important;
+  border:1px solid var(--ed-line)!important;border-radius:20px!important;
+  box-shadow:0 20px 60px rgba(23,23,19,.08)!important;padding:26px!important;}
+.opp-flag{color:var(--ed-ink)!important;font-weight:700!important;}
+.opp-conf{color:var(--ed-faint)!important;}
+.opp-goal{background:#faf9f6!important;border:1px solid var(--ed-line)!important;border-radius:12px!important;}
+.opp-label{color:var(--ed-faint)!important;font-size:.7rem!important;letter-spacing:.08em!important;}
+.opp-goal-text,.memo-signal{color:var(--ed-ink)!important;}
+.memo-reason{background:#faf9f6!important;border:1px solid var(--ed-line)!important;border-radius:12px!important;}
+.memo-reason span{color:var(--ed-ink)!important;}
+.memo-reason em{color:var(--ed-muted)!important;}
+.memo-reason b{color:var(--ed-ink)!important;}
+.memo-rec{background:#faf9f6!important;border:1px solid var(--ed-line)!important;border-radius:12px!important;}
+.opp-quote{color:var(--ed-ink)!important;}
+.opp-sources span{background:#fff!important;border:1px solid var(--ed-line)!important;
+  color:var(--ed-muted)!important;border-radius:999px!important;}
+.memo-side .opp-rec{background:var(--ed-dark)!important;
+  border:1px solid #2a2a26!important;border-radius:16px!important;padding:18px!important;}
+.memo-side .opp-label{color:#8f8f86!important;}
+.memo-creates span{background:#1e1e1b!important;border:1px solid #2e2e2a!important;
+  color:#e8e6de!important;border-radius:12px!important;}
+.memo-creates em{color:#8f8f86!important;}
+.opp-actions .btn-primary{background:#fff!important;color:var(--ed-ink)!important;border-color:#fff!important;}
+.opp-actions span{color:#8f8f86!important;}
+.opp-result{background:#242422!important;border:1px solid #33332f!important;}
+.opp-result b{color:#fff!important;}
+.opp-result span{color:#a3a39a!important;}
+.opp-watch{color:#8f8f86!important;}
+.opp-disc{color:var(--ed-faint)!important;}
